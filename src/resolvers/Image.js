@@ -9,7 +9,7 @@ export default function Image({ src, alt = '', ...props }) {
       {isRemote ? (
        // <img src={src} alt={alt} {...props}></img>
       ) : (
-        <GatsbyImage image={image} alt={alt} {...props} />
+        //<GatsbyImage image={image} alt={alt} {...props} />
       )}
     </>
   );
