@@ -23,7 +23,7 @@ blocks:
           ratio: 6/6
           color_theme: dark
           photo:
-            image: /img/4000_2_01.jpg
+            image: /img/codefellow.jpeg
             alt: Logo
           title: Start building your website
           content: Enable netlify identity and Git Gateway and click Get Started.
