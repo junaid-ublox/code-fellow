@@ -36,7 +36,7 @@ const config = {
 
 CMS.registerPreviewStyle('../commons.css');
 CMS.registerPreviewTemplate('pillar', PillarPreview);
-CMS.registerPreviewTemplate('pages', PagePreview);
+//CMS.registerPreviewTemplate('pages', PagePreview);
 CMS.registerPreviewTemplate('blog', BlogPreview);
 CMS.registerPreviewTemplate('theme_docs', PagePreview);
 
