@@ -10,15 +10,7 @@ blocks:
     height: full
     heros:
       - hero:
-          buttons:
-            - button:
-                variant: button
-                content: Get Started
-                url: /admin
-            - button:
-                variant: secondary
-                content: Documentation
-                url: https://edge-base.netlify.app/documentation
+          buttons: []
           variant: with_image_left_to_right
           ratio: 6/6
           color_theme: dark
@@ -31,11 +23,15 @@ blocks:
           bg_settings:
             variant: bg-image
             overlay: no-overlay
-            bg_photo: /img/green-tropical-leaves-border-png-3000x2400.png
+            bg_photo: ""
             bg_color: "#0e0e1b"
             bg_video: https://player.vimeo.com/video/516255210?title=0&portrait=0&byline=0&autoplay=1&muted=true&controls=0&loop=1
     variant: default
     title: Start building your website
+  - type: hero_slider
+    variant: default
+    height: full
+    heros: []
 seo:
   ogimage: /img/4000_2_01.jpg
 ---
