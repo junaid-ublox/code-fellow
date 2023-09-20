@@ -61,6 +61,51 @@ blocks:
           their respective technologies.
         photo:
           image: /img/clean-modern-black-white-fox-vector-logo_567294-4882.jpg
+  - type: content_image
+    bg_settings:
+      variant: no-bg
+      overlay: no-overlay
+    variant: default
+    title: Experience one stop Solution for all your Digital needs
+    content: >-
+      Argonteq is a trusted and reputable provider of comprehensive IT
+      consulting services in the USA.
+
+
+
+
+      ### Data Technology
+
+
+      Our expertise has been instrumental in helping organization and companies achieve heightened competitiveness and notable improvements in business performance.
+
+
+
+
+      ### Tech Outsourcing
+
+
+      Our stringent quality standards and meticulous approach guarantee that the software we deliver aligns perfectly with your objectives, driving efficiency and maximizing your business's potential.
+  - type: hero_slider
+    variant: default
+    height: full
+    heros:
+      - hero:
+          variant: default
+          ratio: 8/4
+          color_theme: white
+          bg_settings:
+            variant: no-bg
+            overlay: no-overlay
+          title: Industries We’re Serving
+          content: "### Need IT solutions & services consultation? Send a free request"
+          buttons:
+            - button:
+                variant: button
+                content: GET A QUOTE TODAY
+                url: /request-quote
+          photo:
+            image: /img/background.jpg
 seo:
   ogimage: /img/4000_2_01.jpg
 ---
