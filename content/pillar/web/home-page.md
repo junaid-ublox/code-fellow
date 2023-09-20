@@ -49,7 +49,18 @@ blocks:
           operate in a branded space which ensures an immersive experience.
         photo:
           image: /img/72ed3a4ee99cdd29917b5affcafa2e63.jpg
-      - {}
+      - title: BUILD TEAMS THAT YOU NEED
+        content: It doesn’t really matter if your development type is open-ended or
+          fixed term, Argon’ dedicated developers will upgrade your software
+          developments capabilities in either cases.
+        photo:
+          image: /img/edge-base-logo.png
+      - title: RESOURCES WITH PROFOUND EXPERTISE
+        content: Argon offers you a vast pool of extremely skilled and dedicated
+          developers to choose from. These developers have profound expertise in
+          their respective technologies.
+        photo:
+          image: /img/clean-modern-black-white-fox-vector-logo_567294-4882.jpg
 seo:
   ogimage: /img/4000_2_01.jpg
 ---
