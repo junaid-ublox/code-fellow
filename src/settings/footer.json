@@ -1,9 +1,9 @@
 {
   "nav": [],
   "social_links": [],
-  "copyright": "2021-2022",
-  "show_social_links": true,
-  "show_contact_links": true,
+  "copyright": "2021-2023",
+  "show_social_links": false,
+  "show_contact_links": false,
   "title": "Edge Base",
   "content": "Your next generation website starter",
   "contact_links": []
