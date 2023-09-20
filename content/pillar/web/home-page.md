@@ -15,9 +15,9 @@ blocks:
           ratio: 8/4
           color_theme: dark
           bg_settings:
-            variant: bg-image
+            variant: no-bg
             overlay: white
-            bg_photo: /img/codefellow.jpeg
+            bg_photo: ""
             bg_video: https://www.youtube.com/watch?v=zMAbyaKEUOk
           title: "{CODE FELLOW}"
           content: >-
