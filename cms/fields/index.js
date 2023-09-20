@@ -144,6 +144,10 @@ export const Hero = {
         label: 'With User Avatar',
         value: 'with_user_avatar'
       },
+      {
+        label: 'Video BG',
+        value: 'bg-video'
+      }
       
     ]),
     ContentDivision('8/4'),
