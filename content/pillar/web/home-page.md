@@ -15,7 +15,7 @@ blocks:
           ratio: 8/4
           color_theme: dark
           bg_settings:
-            variant: no-bg
+            variant: bg_video
             overlay: white
             bg_photo: ""
             bg_video: https://www.youtube.com/watch?v=zMAbyaKEUOk
