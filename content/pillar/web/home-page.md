@@ -38,13 +38,18 @@ blocks:
       variant: no-bg
       overlay: no-overlay
     columns:
-      - content: >-
-          ### RETAIN COMPLETE TEAM CONTROL
-
-
-          Argon enables you to retain total team control by empowering you with multiple benefits like that of high scalability and reduced administration.
+      - content: Argon enables you to retain total team control by empowering you with
+          multiple benefits like that of high scalability and reduced
+          administration.
         photo:
           image: /img/clean-modern-black-white-fox-vector-logo_567294-4882.jpg
+        title: RETAIN COMPLETE TEAM CONTROL
+      - title: ENSURE AN IMMERSIVE EXPERIENCE
+        content: We adhere to all your processes and policies thus enabling your team to
+          operate in a branded space which ensures an immersive experience.
+        photo:
+          image: /img/72ed3a4ee99cdd29917b5affcafa2e63.jpg
+      - {}
 seo:
   ogimage: /img/4000_2_01.jpg
 ---
