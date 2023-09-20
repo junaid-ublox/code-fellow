@@ -6,28 +6,7 @@
       "type": "default"
     }
   ],
-  "social_links": [
-    {
-      "permalink": "https://www.facebook.com",
-      "platform": "facebook"
-    },
-    {
-      "permalink": "https://www.twitter.com",
-      "platform": "twitter"
-    },
-    {
-      "permalink": "https://www.linkedin.com",
-      "platform": "linkedin"
-    },
-    {
-      "permalink": "https://www.youtube.com",
-      "platform": "youtube"
-    },
-    {
-      "permalink": "https://www.instagram.com",
-      "platform": "instagram"
-    }
-  ],
+  "social_links": [],
   "show_social_links": true,
   "show_dark_mode": true,
   "show_mini_bar": true,
@@ -38,18 +17,5 @@
   "show_contact_links": true,
   "title": "Edge Base",
   "content": "Your next generation website starter",
-  "contact_links": [
-    {
-      "permalink": "lorem@ipsom.com",
-      "platform": "email"
-    },
-    {
-      "permalink": "+00 000 0000000",
-      "platform": "phone"
-    },
-    {
-      "permalink": "09:00 AM to 10:00 PM",
-      "platform": "calendar"
-    }
-  ]
+  "contact_links": []
 }
