@@ -146,7 +146,7 @@ export const Hero = {
       },
       {
         label: 'Video BG',
-        value: 'bg-video'
+        value: 'bg_video'
       }
       
     ]),
