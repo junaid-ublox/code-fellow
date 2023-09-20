@@ -7,9 +7,9 @@
     }
   ],
   "social_links": [],
-  "show_social_links": true,
-  "show_dark_mode": true,
-  "show_mini_bar": true,
+  "show_social_links": false,
+  "show_dark_mode": false,
+  "show_mini_bar": false,
   "photo": {
     "image": "/img/edge-base-logo.png",
     "alt": "edge-base-logo"
