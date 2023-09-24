@@ -92,29 +92,9 @@ export default function Header() {
                       <Image
                         src={nav?.photo?.image}
                         alt={nav?.photo?.alt}
-                        className="mr-3 h-6 sm:h-9 rounded-full"
+                        className="mr-3 h-9 md:h-12"
                       />
                     )}
-                    <div className='flex flex-col'>
-                    {nav?.title && (
-                      <span
-                        className={clsx('self-center text-xl font-bold whitespace-nowrap text-headerTitleColor dark:text-white', {
-                          'mx-auto': nav?.isCentered,
-                        })}
-                      >
-                        {nav?.title}
-                      </span>
-                    )}
-                    {nav?.title && (
-                      <span
-                        className={clsx('text-xs font-semibold whitespace-nowrap text-headerSubTitleColor dark:text-white', {
-                          'mx-auto': nav?.isCentered,
-                        })}
-                      >
-                        {nav?.title}
-                      </span>
-                    )}
-                    </div>
                 </a>
                 <div className="flex items-center lg:order-2 lg:hidden">
                     <button type="button" onClick={toggleDropDown} className="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-2" aria-expanded="false">

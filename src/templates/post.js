@@ -8,7 +8,7 @@ import Blog from '../../src/components/Blog';
 
 const Post = ({ data }) => {
   
-  const bgImage =   typeof data.post.frontmatter?.bg_photo === 'string' ? data.post.frontmatter?.bg_photo : data.post.frontmatter?.bg_photo?.bg_image?.childImageSharp?.gatsbyImageData?.images?.fallback?.src
+  const bgImage =   typeof data.post.frontmatter?.photo === 'string' ? data.post.frontmatter?.photo : data.post.frontmatter?.photo?.image?.childImageSharp?.gatsbyImageData?.images?.fallback?.src
    
   const object = {
     'title': data.post.frontmatter.title,
@@ -54,13 +54,15 @@ export const basicPageQuery = graphql`
         excerpt
         type
         date
-        bg_photo {
-          bg_image {
+        bg_settings {
+          variant
+          overlay
+          bg_photo {
             childImageSharp {
               gatsbyImageData(
-                width: 2480
-                quality: 72
-                placeholder: DOMINANT_COLOR
+                width: 2048
+                quality: 70
+                placeholder: BLURRED
                 formats: [AUTO, WEBP, AVIF]
               )
             }

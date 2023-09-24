@@ -259,8 +259,8 @@ export default function Recent({ identifier, title, widerContainer, ...props }) 
               let title = '';
               let linkText = '';
               
-              if (slide.node && slide.node.fields && slide.node.fields.slug) {
-                path = slide.node.fields.slug;
+              if (slide.node && slide.node.frontmatter && slide.node.frontmatter.permalink) {
+                path = slide.node.frontmatter.permalink;
               }
               if (slide.node.frontmatter && slide.node.frontmatter.photo) {
                 let image = getImage(slide.node.frontmatter.photo.image);

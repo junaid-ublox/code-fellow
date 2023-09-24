@@ -1,0 +1,14 @@
+{
+    "name": "Code-Fellow",
+    "short_name": "Code-Fellow",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ed6527",
+    "background_color": "#ed6527",
+    "display": "standalone"
+}

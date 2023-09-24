@@ -21,6 +21,7 @@ export const useRecentArticles = () => {
                 title
                 date(formatString: "MMMM DD, YYYY")
                 author
+                permalink
                 photo {
                   image {
                     childImageSharp {

@@ -4,6 +4,31 @@
       "name": "Home",
       "permalink": "/",
       "type": "default"
+    },
+    {
+      "type": "default",
+      "name": "Services",
+      "permalink": "/services"
+    },
+    {
+      "type": "default",
+      "name": "Technology",
+      "permalink": "/technology"
+    },
+    {
+      "type": "default",
+      "name": "Industry",
+      "permalink": "/industry"
+    },
+    {
+      "type": "default",
+      "name": "About Us",
+      "permalink": "/about-us"
+    },
+    {
+      "type": "default",
+      "name": "Contact Us",
+      "permalink": "/contact-us"
     }
   ],
   "social_links": [],
@@ -11,11 +36,11 @@
   "show_dark_mode": false,
   "show_mini_bar": false,
   "photo": {
-    "image": "/img/edge-base-logo.png",
-    "alt": "edge-base-logo"
+    "image": "/img/codefellow.png",
+    "alt": "code-fellow-logo"
   },
   "show_contact_links": true,
-  "title": "Edge Base",
+  "title": "code-fellow",
   "content": "Your next generation website starter",
   "contact_links": []
 }
