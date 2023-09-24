@@ -18,7 +18,7 @@ blocks:
             variant: bg-video
             overlay: dark
             bg_photo: /img/background.jpg
-            bg_video: https://www.youtube.com/watch?v=zMAbyaKEUOk
+            bg_video: https://youtube.com/embed/zMAbyaKEUOk?autoplay=1&controls=0&showinfo=0&autohide=1
           photo:
             image: /img/background.jpg
           title: "{CODE FELLOW}"
