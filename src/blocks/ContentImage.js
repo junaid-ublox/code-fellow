@@ -25,15 +25,15 @@ export default function ContentImage({ data }) {
               { 'md:flex-row': !isReversed },
             )}
           >
-            <div className="w-full md:w-6/12 lg:w-7/12 text-center">
-              {data?.photo?.image && (
-                <Image
-                  src={data?.photo?.image}
-                  alt={data?.photo?.alt}
-                  className="h-full w-full object-cover filter grayscale hover:grayscale-0"
-                />
-              )}
-            </div>
+            {data?.photo?.image && (
+              <div className="w-full md:w-6/12 lg:w-7/12 text-center">
+                  <Image
+                    src={data?.photo?.image}
+                    alt={data?.photo?.alt}
+                    className="h-36 md:h-60vh w-full object-cover filter grayscale hover:grayscale-0"
+                  />
+              </div>
+            )}
             <div className="w-full md:w-6/12 lg:w-5/12">
               <div className="mx-auto max-w-2xl">
                 {data?.title && (
