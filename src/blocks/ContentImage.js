@@ -16,7 +16,7 @@ export default function ContentImage({ data }) {
         bgImageAlt={data?.bg_photo?.alt}
         disabled={data?.bg_photo?.enable_parallax === true}
     >
-      <section className="py-20 lg:py-32 bg-white bg-opacity-50">
+      <section className="bg-white bg-opacity-50">
         <Container className="max-w-7xl">
           <div
             className={clsx(
@@ -25,16 +25,16 @@ export default function ContentImage({ data }) {
               { 'md:flex-row': !isReversed },
             )}
           >
-            <div className="lg:w-1/2 text-center">
+            <div className="w-full md:w-6/12 lg:w-7/12 text-center">
               {data?.photo?.image && (
                 <Image
                   src={data?.photo?.image}
                   alt={data?.photo?.alt}
-                  className="w-72"
+                  className="h-full w-full object-cover filter grayscale hover:grayscale-0"
                 />
               )}
             </div>
-            <div className="lg:w-1/2">
+            <div className="w-full md:w-6/12 lg:w-5/12">
               <div className="mx-auto max-w-2xl">
                 {data?.title && (
                   <Title Tag="h2" variant="lg">

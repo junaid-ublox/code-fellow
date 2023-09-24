@@ -10,6 +10,7 @@ import Content from '../blocks/Content';
 import Form from '../blocks/Form';
 import WideSlider from '../blocks/WideSlider';
 import BreadCrumbs from './BreadCrumbs';
+import EmptySpace from '../blocks/EmptySpace';
 
 export default function PageBuilder({ frontmatter, preview = false }) {
   return (
@@ -19,7 +20,6 @@ export default function PageBuilder({ frontmatter, preview = false }) {
       }
       {frontmatter?.blocks &&
         frontmatter.blocks.map((block, i) => {
-          
           switch (block.type) {
             case 'hero_slider':
               return <Heros key={i} data={block} />;
@@ -37,6 +37,8 @@ export default function PageBuilder({ frontmatter, preview = false }) {
               return <Form key={i} block={block} preview={preview} />;
             case 'cards_slider':
               return <WideSlider key={i} identifier={`wide_slider`+i} data={block} preview={preview} />
+            case 'empty_space':
+              return <EmptySpace key={i} data={block} preview={preview} />
             default:
               return (
                 <div className='container mx-auto' key={i}>

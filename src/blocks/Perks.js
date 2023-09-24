@@ -7,6 +7,7 @@ import Text from '../components/UI/Text';
 import DefaultPerk from './Perks/Default'
 import PerkCards from './Perks/PerkCards'
 import Galley from './Perks/Galley'
+import clsx from 'clsx';
 
 function PerkItems({ data }) {
   switch (data.variant){
@@ -34,22 +35,33 @@ export default function Perks({ data }) {
         bgImageAlt={data?.bg_photo?.alt}
         disabled={data?.bg_photo?.enable_parallax === true}
     >
-      <section className='py-10 bg-white bg-opacity-50 dark:bg-[#0d0d10] lg:py-20 '>
+      <section className='bg-white bg-opacity-50 dark:bg-[#0d0d10]'>
         
         <Container>
-          {data?.title && (
-            <Title
-              Tag='h2'
-              variant='xl'
-              className={`mx-auto mb-4 max-w-6xl lg:mb-10 text-perkTitle`}>
-              {data?.title}
-            </Title>
-          )}
-          {data?.content && (
-            <Text className={`mx-auto mt-8 max-w-6xl lg:text-lg  text-perkSubTitle`}>
-              {data?.content}
-            </Text>
-          )}
+          <div className='flex w-full flex-col md:flex-row mb-12'>
+            <div className={clsx('w-full',{
+              ' md:w-1/2' : data?.content
+            })}>
+              {data?.title && (
+                <Title
+                  Tag='h2'
+                  variant='xl'
+                  className={clsx(`mx-auto mt-8 pt-0 md:pt-2  md:pr-6 md:mb-10 text-perkTitle leading-10`,{
+                    ' md:max-w-md' : data?.content
+                  })}>
+                  {data?.title}
+                </Title>
+              )}
+            </div>
+            <div className='w-full md:w-1/2'>
+                {data?.content && (
+                  <Text className={`mx-auto mt-8 max-w-6xl`}>
+                    {data?.content}
+                  </Text>
+                )}
+            </div>
+          </div>
+          
           <PerkItems data={data} />
         </Container>
       </section>

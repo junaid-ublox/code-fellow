@@ -131,7 +131,7 @@ const Config = {
       widget: 'object',
       summary: 'Content {{fields.variant}}',
       fields: [
-        VariantField('50px', ['50px','75px','100px','125px','150px','175px','200px','225px','250px']),
+        VariantField('50px', ['25px','50px','75px','100px','125px','150px','175px','200px','225px','250px']),
       ],
     },
     {

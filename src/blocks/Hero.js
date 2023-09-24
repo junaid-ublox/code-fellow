@@ -13,11 +13,18 @@ export default function Hero({ data,  height }) {
   data.height = height;
   switch (data.bg_settings.variant){
     case 'bg-video':
-      data.height = 'full'
+      // data.height = 'full'
       return (
         <div className={ 
           clsx({
-            "flex relative w-full h-screen": true
+            "flex relative w-full": true,
+            "h-screen": data.height === 'full', 
+            "h-80vh": data.height === '80vh', 
+            "h-60vh": data.height === '60vh', 
+            "h-40vh": data.height === '40vh', 
+            "h-20vh": data.height === '20vh', 
+            "h-auto": data.height === 'auto'
+            
             })}>
           <div className={ 
             clsx({

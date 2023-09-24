@@ -8,30 +8,32 @@ thumbnail: ""
 blocks:
   - type: hero_slider
     variant: default
-    height: full
+    height: 60vh
     heros:
       - hero:
-          variant: with_image_left_to_right
+          variant: with_video_left_to_right
           ratio: 8/4
           color_theme: dark
           bg_settings:
-            variant: bg_video
-            overlay: white
-            bg_photo: ""
+            variant: bg-video
+            overlay: dark
+            bg_photo: /img/background.jpg
             bg_video: https://www.youtube.com/watch?v=zMAbyaKEUOk
+          photo:
+            image: /img/background.jpg
           title: "{CODE FELLOW}"
-          content: >-
-            #### Your Solution Partner
-
-
-            spanning NFT, blockchain, metaverse, web, app, 3D modeling, AR/VR game, and software development have successfully left an indelible mark across various industries. Our impact is far-reaching, unlocking new opportunities for growth and innovation in a fast-paced digital world. With a commitment to plagiarism-free content, Argonteq it consulting services in usa have been dedicated to driving industries forward through creative and authentic solutions.
+          content: "# Your Solution Partner"
+  - type: empty_space
+    variant: 100px
   - type: content
     variant: left-hand
-    content: >-
-      # IT consulting services in USA
-
-
-      At Argonteq, we pride ourselves on providing the best **[it services](https://argonteq.com/)** for our clients. We are equipped to cater to a variety of needs, ensuring that we deliver top-notch results every time. Whether you’re looking to venture into the world of non-fungible tokens nft development, explore the potential of blockchain technology, enhance your digital presence with stunning **[3d modeling services in usa](https://argonteq.com/3d-modeling-services/)**, create innovative mobile applications development, immerse your audience in captivating AR/VR Development Services experiences, shape the future of the metaverse, optimise your software development processes, or develop engaging games, we have you covered.
+    content: spanning NFT, blockchain, metaverse, web, app, 3D modeling, AR/VR game,
+      and software development have successfully left an indelible mark across
+      various industries. Our impact is far-reaching, unlocking new
+      opportunities for growth and innovation in a fast-paced digital world.
+      With a commitment to plagiarism-free content, Argonteq it consulting
+      services in usa have been dedicated to driving industries forward through
+      creative and authentic solutions.
   - type: perks
     variant: default
     bg_settings:
@@ -61,6 +63,20 @@ blocks:
           their respective technologies.
         photo:
           image: /img/clean-modern-black-white-fox-vector-logo_567294-4882.jpg
+    content: At Argonteq, we pride ourselves on providing the best **[it
+      services](https://argonteq.com/)** for our clients. We are equipped to
+      cater to a variety of needs, ensuring that we deliver top-notch results
+      every time. Whether you’re looking to venture into the world of
+      non-fungible tokens nft development, explore the potential of blockchain
+      technology, enhance your digital presence with stunning **[3d modeling
+      services in usa](https://argonteq.com/3d-modeling-services/)**, create
+      innovative mobile applications development, immerse your audience in
+      captivating AR/VR Development Services experiences, shape the future of
+      the metaverse, optimise your software development processes, or develop
+      engaging games, we have you covered.
+    title: IT consulting services in USA
+  - type: empty_space
+    variant: 150px
   - type: content_image
     bg_settings:
       variant: no-bg
@@ -86,17 +102,22 @@ blocks:
 
 
       Our stringent quality standards and meticulous approach guarantee that the software we deliver aligns perfectly with your objectives, driving efficiency and maximizing your business's potential.
+    photo:
+      image: /img/computer-network-system-technology-concept.jpg
+  - type: empty_space
+    variant: 150px
   - type: hero_slider
     variant: default
-    height: full
+    height: 60vh
     heros:
       - hero:
           variant: default
           ratio: 8/4
-          color_theme: white
+          color_theme: dark
           bg_settings:
-            variant: no-bg
-            overlay: no-overlay
+            variant: bg-image
+            overlay: white
+            bg_photo: /img/track-bg.jpg
           title: Industries We’re Serving
           content: "### Need IT solutions & services consultation? Send a free request"
           buttons:
@@ -105,7 +126,63 @@ blocks:
                 content: GET A QUOTE TODAY
                 url: /request-quote
           photo:
-            image: /img/background.jpg
+            image: ""
+  - type: empty_space
+    variant: 150px
+  - type: perks
+    variant: default
+    bg_settings:
+      variant: no-bg
+      overlay: no-overlay
+    title: Real Time Dealing in all Professional IT Solutions & Services
+    columns:
+      - title: " NFT, Blockchain, and Metaverse"
+        content: NFT and blockchain development converge to redefine ownership,
+          transparency, and immersive digital experiences.
+      - content: Our custom web development service combines creativity and
+          functionality to bring your digital vision to life. From sleek and
+          responsive designs.
+        title: Web Development
+      - title: " App development"
+        content: Our application development services deliver intuitive and feature-rich
+          mobile applications tailored to your specific needs.
+      - title: " 3D modeling"
+        content: Our 3D modeling services provide high-quality and realistic
+          representations for various industries and applications. From product
+          designs to architectural visualizations.
+      - title: " AR/VR development"
+        content: Our AR VR Development Services push the boundaries of immersive
+          experiences, blending the virtual and physical worlds seamlessly.
+      - title: " Game development"
+        content: Game development services combine cutting-edge technology with creative
+          storytelling to deliver captivating and immersive gaming experiences.
+  - type: empty_space
+    variant: 150px
+  - type: hero_slider
+    variant: default
+    height: 40vh
+    heros:
+      - hero:
+          variant: default
+          ratio: 8/4
+          color_theme: dark
+          bg_settings:
+            variant: bg-image
+            overlay: white
+            bg_photo: /img/scott-graham-5fnmwej4taa-unsplash.jpg
+          title: ""
+          content: "# Better IT Solutions & Services at your Fingertips"
+          buttons:
+            - button:
+                variant: button
+                content: Learn more
+  - type: empty_space
+    variant: 150px
+  - type: recentArticles
+    bg_settings:
+      variant: no-bg
+      overlay: no-overlay
+    title: Explore & Read News & Blog
 seo:
   ogimage: /img/4000_2_01.jpg
 ---

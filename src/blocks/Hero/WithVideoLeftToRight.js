@@ -4,6 +4,7 @@ import Buttons from '../../components/UI/Buttons';
 
 import clsx from 'clsx';
 import HeroForm from './HeroForm';
+import Text from '../../components/UI/Text';
 
 export default function WithVideoLeftToRight({ data }) {
     
@@ -18,10 +19,10 @@ export default function WithVideoLeftToRight({ data }) {
             "h-auto md:h-20vh": data.height === '20vh', 
             "h-auto": data.height === 'auto'
             })}>
-            <div className="mx-auto flex px-5 py-24 md:flex-row flex-col items-center md:space-x-5">
+            <div className="mx-auto flex px-5 py-24 md:flex-row flex-col items-center md:space-x-5 w-full">
                 <div className={ 
                     clsx({
-                        "flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center ": true, 
+                        "flex flex-col md:items-start md:text-left mb-16 gap-y-8 md:mb-0 items-center text-center ": true, 
                         "w-full md:w-1/12": data.ratio === '1/11',
                         "w-full md:w-2/12": data.ratio === '2/10',
                         "w-full md:w-3/12": data.ratio === '3/9',
@@ -34,8 +35,8 @@ export default function WithVideoLeftToRight({ data }) {
                         "w-full md:w-10/12": data.ratio === '10/2',
                         "w-full md:w-11/12": data.ratio === '11/1',
                     })}>
-                    {data?.title && (<h1 className={clsx({"title-font sm:text-4xl text-3xl mb-4 font-medium " : true , 'text-white': data.color_theme === 'white' , 'text-gray-900': data.color_theme === 'dark'})}>{data?.title}</h1>)}
-                    {data?.content && (<p className={clsx({"mb-8 leading-relaxed" : true , 'text-white': data.color_theme === 'white' , 'text-gray-500': data.color_theme === 'dark'})}>{data?.content}</p>)}
+                    {data?.title && (<h1 className={clsx({"title-font text-4xl md:text-7xl mb-6 font-bold " : true , 'text-white': data.color_theme === 'white' , 'text-gray-900': data.color_theme === 'dark'})}>{data?.title}</h1>)}
+                    {data?.content && (<p className={clsx({"mb-8 pl-2 text-4xl md:text-7xl mb-6 font-bold leading-relaxed" : true , 'text-white': data.color_theme === 'white' , 'text-gray-500': data.color_theme === 'dark'})}><Text>{data?.content}</Text></p>)}
                     {data?.form && (<HeroForm block={data} />)}
                     {data?.buttons && (
                         <div className="flex justify-center">
