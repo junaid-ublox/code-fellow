@@ -34,13 +34,18 @@ blocks:
     variant: 100px
   - type: content
     variant: left-hand
-    content: spanning NFT, blockchain, metaverse, web, app, 3D modeling, AR/VR game,
-      and software development have successfully left an indelible mark across
-      various industries. Our impact is far-reaching, unlocking new
-      opportunities for growth and innovation in a fast-paced digital world.
-      With a commitment to plagiarism-free content, Argonteq it consulting
-      services in usa have been dedicated to driving industries forward through
-      creative and authentic solutions.
+    content: >-
+      Code-Fellow is a young but dynamic and innovative software development
+      company dedicated to delivering cutting-edge solutions to meet the
+      evolving needs of businesses across industries. 
+
+
+
+      With a proven track record of excellence, we specialize in crafting tailored software solutions that drive efficiency, enhance productivity, and propel businesses to new heights.
+
+
+
+      Our mission is to transform the organization to digital world by providing top-notch software solutions, business process definition and re-engineering to meet the expectations of our clients. We are committed to delivering quality, reliability, and value through our products and services, enabling our client organization to thrive in an increasingly digital world.
   - type: perks
     variant: default
     bg_settings:
