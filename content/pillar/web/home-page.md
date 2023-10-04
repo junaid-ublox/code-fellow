@@ -23,6 +23,13 @@ blocks:
             image: /img/background.jpg
           title: "{CODE FELLOW}"
           content: "# Your Solution Partner"
+      - hero:
+          variant: default
+          ratio: 8/4
+          color_theme: dark
+          bg_settings:
+            variant: no-bg
+            overlay: no-overlay
   - type: empty_space
     variant: 100px
   - type: content
