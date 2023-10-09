@@ -2159,6 +2159,11 @@
   resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-win32-x64/-/msgpackr-extract-win32-x64-2.2.0.tgz#016d855b6bc459fd908095811f6826e45dd4ba64"
   integrity sha512-XrC0JzsqQSvOyM3t04FMLO6z5gCuhPE6k4FXuLK5xf52ZbdvcFe1yBmo7meCew9B8G2f0T9iu9t3kfTYRYROgA==
 
+"@netlify/plugin-csp-nonce@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@netlify/plugin-csp-nonce/-/plugin-csp-nonce-1.2.2.tgz#fc2f9260875662d6adc1043dd54885effb3165ea"
+  integrity sha512-F8B24GfccN+XMfq4aQ0QJ3FOqs4wj6N3BRlxYBbaRFBXLwXeHK2MUVwHUGLLn311C0qwyTcb/T7HFwLfFhSmDQ==
+
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
   resolved "https://registry.yarnpkg.com/@nicolo-ribaudo/eslint-scope-5-internals/-/eslint-scope-5-internals-5.1.1-v1.tgz#dbf733a965ca47b1973177dc0bb6c889edcfb129"
