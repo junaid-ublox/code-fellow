@@ -15,12 +15,12 @@ blocks:
           ratio: 8/4
           color_theme: dark
           bg_settings:
-            variant: bg-image
+            variant: bg-video
             overlay: white
             bg_photo: /img/banner2.jpeg
-            bg_video: https://vod-progressive.akamaized.net/exp=1695601948~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4417%2F17%2F447087612%2F1961769893.mp4~hmac=6be4df68470cd8c5dc5e4a47d851a3e6106850375833fd2ee553fbc2fc6cbab4/vimeo-prod-skyfire-std-us/01/4417/17/447087612/1961769893.mp4?filename=file.mp4
+            bg_video: https://www.pexels.com/video/time-lapse-footage-of-a-night-sky-5338469/
           photo:
-            image: /img/background.jpg
+            image: /img/banner2.jpeg
           title: "{CODE FELLOW}"
           content: "# Your Solution Partner"
       - hero:
@@ -30,6 +30,8 @@ blocks:
           bg_settings:
             variant: no-bg
             overlay: no-overlay
+            bg_photo: /img/codefellowbanner.jpeg
+          video: https://www.pexels.com/video/time-lapse-footage-of-a-night-sky-5338469/
   - type: empty_space
     variant: 100px
   - type: content
