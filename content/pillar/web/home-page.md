@@ -11,13 +11,13 @@ blocks:
     height: 60vh
     heros:
       - hero:
-          variant: with_video_left_to_right
+          variant: default
           ratio: 8/4
           color_theme: dark
           bg_settings:
             variant: bg-image
             overlay: white
-            bg_photo: /img/codefellowbanner.jpeg
+            bg_photo: /img/banner2.jpeg
             bg_video: https://vod-progressive.akamaized.net/exp=1695601948~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4417%2F17%2F447087612%2F1961769893.mp4~hmac=6be4df68470cd8c5dc5e4a47d851a3e6106850375833fd2ee553fbc2fc6cbab4/vimeo-prod-skyfire-std-us/01/4417/17/447087612/1961769893.mp4?filename=file.mp4
           photo:
             image: /img/background.jpg
