@@ -6,7 +6,7 @@ title: Industries
 permalink: /industries/
 blocks:
   - type: perks
-    variant: cards
+    variant: default
     bg_settings:
       variant: no-bg
       overlay: no-overlay
