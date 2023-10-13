@@ -16,7 +16,7 @@ blocks:
           color_theme: white
           bg_settings:
             variant: bg-video
-            overlay: white
+            overlay: dark
             bg_photo: ""
             bg_video: https://code-fellow.com/banner_bg.mp4
           photo:
