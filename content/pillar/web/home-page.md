@@ -18,7 +18,7 @@ blocks:
             variant: bg-video
             overlay: white
             bg_photo: ""
-            bg_video: https://www.pexels.com/video/time-lapse-footage-of-a-night-sky-5338469/
+            bg_video: https://code-fellow.com/banner_bg.mp4
           photo:
             image: ""
           title: ""
