@@ -18,7 +18,7 @@ blocks:
             variant: bg-video
             overlay: dark
             bg_photo: ""
-            bg_video: https://www.youtube.com/embed/x1PPoUkynvc?si=hbz_VflobyWrJaZP?&autoplay=1&hd=1&loop=1
+            bg_video: https://www.youtube.com/embed/x1PPoUkynvc?si=hbz_VflobyWrJaZP?&autoplay=1&hd=1&loop=1&controls=0&showinfo=0
           photo:
             image: ""
           title: ""
