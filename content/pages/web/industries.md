@@ -10,8 +10,7 @@ blocks:
     bg_settings:
       variant: no-bg
       overlay: no-overlay
-    title: We have experience serving clients across various industries, including
-      but not limited to
+    title: industries
     columns:
       - title: Finance and Banking
       - title: Healthcare
@@ -22,6 +21,8 @@ blocks:
       - title: Logistics and Supply Chain
       - title: Entertainment
       - title: Government
+    content: We have experience serving clients across various industries, including
+      but not limited to
 seo:
   ogimage: /img/codefellow.jpeg
 ---
