@@ -11,7 +11,7 @@ blocks:
     height: 60vh
     heros:
       - hero:
-          variant: with_video_left_to_right
+          variant: with_image_left_to_right
           ratio: 8/4
           color_theme: dark
           bg_settings:
@@ -20,20 +20,9 @@ blocks:
             bg_photo: ""
             bg_video: https://www.pexels.com/video/time-lapse-footage-of-a-night-sky-5338469/
           photo:
-            image: /img/banner2.jpeg
-          title: ""
-          content: "# Your Solution Partner"
-      - hero:
-          variant: with_video_left_to_right
-          ratio: 8/4
-          color_theme: dark
-          bg_settings:
-            variant: bg-video
-            overlay: no-overlay
-            bg_photo: /img/codefellowbanner.jpeg
-            bg_video: https://www.pexels.com/video/time-lapse-footage-of-a-night-sky-5338469/
-          video: https://www.pexels.com/video/time-lapse-footage-of-a-night-sky-5338469/
+            image: ""
           title: Your Solution Partner
+          content: ""
   - type: empty_space
     variant: 100px
   - type: content
