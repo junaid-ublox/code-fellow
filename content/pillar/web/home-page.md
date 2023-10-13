@@ -12,8 +12,8 @@ blocks:
     heros:
       - hero:
           variant: with_image_left_to_right
-          ratio: 8/4
-          color_theme: dark
+          ratio: 11/1
+          color_theme: white
           bg_settings:
             variant: bg-video
             overlay: white
