@@ -10,7 +10,7 @@ blocks:
     bg_settings:
       variant: no-bg
       overlay: no-overlay
-    title: industries
+    title: Industries
     columns:
       - title: Finance and Banking
       - title: Healthcare
