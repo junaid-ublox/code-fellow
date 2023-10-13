@@ -18,7 +18,7 @@ blocks:
             variant: bg-video
             overlay: dark
             bg_photo: ""
-            bg_video: https://www.youtube.com/embed/m40js83jt_k?&autoplay=1&hd=1&loop=1&controls=0&showinfo=0&start=0&mute=1
+            bg_video: https://www.youtube.com/embed/m40js83jt_k?autoplay=1&playlist=m40js83jt_k&hd=1&loop=1&controls=1&showinfo=0&mute=1&disablekb=1&fs=0&modestbranding=0&color=white&theme=light&rel=0&version=3&iv_load_policy=3
           photo:
             image: ""
           title: Your Solution Partner
