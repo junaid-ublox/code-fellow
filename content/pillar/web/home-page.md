@@ -8,7 +8,7 @@ thumbnail: ""
 blocks:
   - type: hero_slider
     variant: default
-    height: 60vh
+    height: full
     heros:
       - hero:
           variant: default
@@ -18,7 +18,7 @@ blocks:
             variant: bg-video
             overlay: dark
             bg_photo: ""
-            bg_video: https://www.youtube.com/embed/x1PPoUkynvc?si=hbz_VflobyWrJaZP?&autoplay=1
+            bg_video: https://www.youtube.com/embed/x1PPoUkynvc?si=hbz_VflobyWrJaZP?&autoplay=1&hd=1&loop=1
           photo:
             image: ""
           title: ""
