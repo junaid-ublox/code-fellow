@@ -17,6 +17,8 @@ blocks:
         photo:
           image: /img/process.png
       - title: Atlassian JIRA
+        photo:
+          image: /img/atlassian.png
       - title: Software Developmen
         content: We design and develop bespoke software solutions tailored to your
           specific business needs.
