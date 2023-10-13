@@ -11,7 +11,7 @@ blocks:
     height: 60vh
     heros:
       - hero:
-          variant: with_image_left_to_right
+          variant: default
           ratio: 11/1
           color_theme: white
           bg_settings:
