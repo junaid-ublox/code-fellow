@@ -6,7 +6,7 @@ title: Services
 permalink: /services/
 blocks:
   - type: perks
-    variant: cards
+    variant: default
     bg_settings:
       variant: no-bg
       overlay: no-overlay
@@ -14,6 +14,8 @@ blocks:
     content: ""
     columns:
       - title: Business Process Managemen
+        photo:
+          image: /img/process.png
       - title: Atlassian JIRA
       - title: Software Developmen
         content: We design and develop bespoke software solutions tailored to your
