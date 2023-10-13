@@ -21,8 +21,8 @@ blocks:
             bg_video: https://www.youtube.com/embed/x1PPoUkynvc?si=hbz_VflobyWrJaZP?&autoplay=1&hd=1&loop=1&controls=0&showinfo=0
           photo:
             image: ""
-          title: ""
-          content: "# Your Solution Partner"
+          title: Your Solution Partner
+          content: ""
   - type: empty_space
     variant: 100px
   - type: content
