@@ -21,8 +21,8 @@ blocks:
             bg_video: https://www.pexels.com/video/time-lapse-footage-of-a-night-sky-5338469/
           photo:
             image: ""
-          title: Your Solution Partner
-          content: ""
+          title: ""
+          content: "# Your Solution Partner"
   - type: empty_space
     variant: 100px
   - type: content
