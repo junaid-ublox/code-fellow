@@ -24,7 +24,7 @@ blocks:
           title: Your Solution Partner
           content: ""
   - type: empty_space
-    variant: 100px
+    variant: 50px
   - type: content
     variant: left-hand
     content: >-
