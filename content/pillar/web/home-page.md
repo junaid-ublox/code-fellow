@@ -49,32 +49,32 @@ blocks:
           with multiple benefits like that of high scalability and reduced
           administration.
         photo:
-          image: /img/team.png
+          image: /img/team1.png
         title: RETAIN COMPLETE TEAM CONTROL
       - title: ENSURE AN IMMERSIVE EXPERIENCE
         content: We adhere to all your processes and policies thus enabling your team to
           operate in a branded space which ensures an immersive experience.
         photo:
-          image: /img/72ed3a4ee99cdd29917b5affcafa2e63.jpg
+          image: /img/experience.jpg
       - title: BUILD TEAMS THAT YOU NEED
         content: It doesn’t really matter if your development type is open-ended or
-          fixed term, Argon’ dedicated developers will upgrade your software
+          fixed term, our dedicated developers will upgrade your software
           developments capabilities in either cases.
         photo:
-          image: /img/edge-base-logo.png
+          image: /img/build.png
       - title: RESOURCES WITH PROFOUND EXPERTISE
         content: Argon offers you a vast pool of extremely skilled and dedicated
           developers to choose from. These developers have profound expertise in
           their respective technologies.
         photo:
-          image: /img/clean-modern-black-white-fox-vector-logo_567294-4882.jpg
+          image: /img/skills.png
     content: At code-fellow we pride ourselves on providing the best **[business
       process management and reengineering](https://code-fellow.com/)** for our
       clients. We are equipped to cater to a variety of process needs, ensuring
       that we deliver top-notch results every time. We have elevated a number of
       european organization by leveraging the ITIL based processes and their
       automations in the Atlassian platform.
-    title: Business processes automation and consulting services
+    title: Business Process Management
   - type: empty_space
     variant: 150px
   - type: content_image
