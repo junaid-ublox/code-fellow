@@ -77,33 +77,6 @@ blocks:
     title: Business Process Management
   - type: empty_space
     variant: 150px
-  - type: content_image
-    bg_settings:
-      variant: no-bg
-      overlay: no-overlay
-    variant: default
-    title: Experience one stop Solution for all your Digital needs
-    content: >-
-      Argonteq is a trusted and reputable provider of comprehensive IT
-      consulting services in the USA.
-
-
-
-
-      ### Data Technology
-
-
-      Our expertise has been instrumental in helping organization and companies achieve heightened competitiveness and notable improvements in business performance.
-
-
-
-
-      ### Tech Outsourcing
-
-
-      Our stringent quality standards and meticulous approach guarantee that the software we deliver aligns perfectly with your objectives, driving efficiency and maximizing your business's potential.
-    photo:
-      image: /img/computer-network-system-technology-concept.jpg
   - type: empty_space
     variant: 150px
   - type: hero_slider
@@ -177,7 +150,7 @@ blocks:
                 variant: button
                 content: Learn more
   - type: empty_space
-    variant: 150px
+    variant: 50px
   - type: recentArticles
     bg_settings:
       variant: no-bg
