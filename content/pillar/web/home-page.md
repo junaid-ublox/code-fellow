@@ -45,11 +45,11 @@ blocks:
       variant: no-bg
       overlay: no-overlay
     columns:
-      - content: Argon enables you to retain total team control by empowering you with
-          multiple benefits like that of high scalability and reduced
+      - content: code-fellow enables you to retain total team control by empowering you
+          with multiple benefits like that of high scalability and reduced
           administration.
         photo:
-          image: /img/clean-modern-black-white-fox-vector-logo_567294-4882.jpg
+          image: /img/team.png
         title: RETAIN COMPLETE TEAM CONTROL
       - title: ENSURE AN IMMERSIVE EXPERIENCE
         content: We adhere to all your processes and policies thus enabling your team to
@@ -68,18 +68,13 @@ blocks:
           their respective technologies.
         photo:
           image: /img/clean-modern-black-white-fox-vector-logo_567294-4882.jpg
-    content: At Argonteq, we pride ourselves on providing the best **[it
-      services](https://argonteq.com/)** for our clients. We are equipped to
-      cater to a variety of needs, ensuring that we deliver top-notch results
-      every time. Whether you’re looking to venture into the world of
-      non-fungible tokens nft development, explore the potential of blockchain
-      technology, enhance your digital presence with stunning **[3d modeling
-      services in usa](https://argonteq.com/3d-modeling-services/)**, create
-      innovative mobile applications development, immerse your audience in
-      captivating AR/VR Development Services experiences, shape the future of
-      the metaverse, optimise your software development processes, or develop
-      engaging games, we have you covered.
-    title: IT consulting services in USA
+    content: At code-fellow we pride ourselves on providing the best **[business
+      process management and reengineering](https://code-fellow.com/)** for our
+      clients. We are equipped to cater to a variety of process needs, ensuring
+      that we deliver top-notch results every time. We have elevated a number of
+      european organization by leveraging the ITIL based processes and their
+      automations in the Atlassian platform.
+    title: Business processes automation and consulting services
   - type: empty_space
     variant: 150px
   - type: content_image
