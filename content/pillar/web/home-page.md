@@ -55,7 +55,7 @@ blocks:
         content: We adhere to all your processes and policies thus enabling your team to
           operate in a branded space which ensures an immersive experience.
         photo:
-          image: /img/experience.jpg
+          image: /img/exposure.png
       - title: BUILD TEAMS THAT YOU NEED
         content: It doesn’t really matter if your development type is open-ended or
           fixed term, our dedicated developers will upgrade your software
@@ -63,9 +63,9 @@ blocks:
         photo:
           image: /img/build.png
       - title: RESOURCES WITH PROFOUND EXPERTISE
-        content: Argon offers you a vast pool of extremely skilled and dedicated
-          developers to choose from. These developers have profound expertise in
-          their respective technologies.
+        content: We offers you a vast pool of extremely skilled and dedicated developers
+          to choose from. These developers have profound expertise in their
+          respective technologies.
         photo:
           image: /img/skills.png
     content: At code-fellow we pride ourselves on providing the best **[business
@@ -77,31 +77,6 @@ blocks:
     title: Business Process Management
   - type: empty_space
     variant: 150px
-  - type: empty_space
-    variant: 150px
-  - type: hero_slider
-    variant: default
-    height: 60vh
-    heros:
-      - hero:
-          variant: default
-          ratio: 8/4
-          color_theme: dark
-          bg_settings:
-            variant: bg-image
-            overlay: white
-            bg_photo: /img/track-bg.jpg
-          title: Industries We’re Serving
-          content: "### Need IT solutions & services consultation? Send a free request"
-          buttons:
-            - button:
-                variant: button
-                content: GET A QUOTE TODAY
-                url: /request-quote
-          photo:
-            image: ""
-  - type: empty_space
-    variant: 150px
   - type: perks
     variant: default
     bg_settings:
@@ -109,20 +84,27 @@ blocks:
       overlay: no-overlay
     title: Real Time Dealing in all Professional IT Solutions & Services
     columns:
-      - title: " NFT, Blockchain, and Metaverse"
-        content: NFT and blockchain development converge to redefine ownership,
-          transparency, and immersive digital experiences.
+      - title: "Atlassian JIRA: Cloud and Data Center"
+        content: "Custom Software Development: We design and develop bespoke software
+          solutions tailored to your specific business needs."
+        photo:
+          image: /img/atlassian.png
       - content: Our custom web development service combines creativity and
           functionality to bring your digital vision to life. From sleek and
           responsive designs.
         title: Web Development
-      - title: " App development"
+        photo:
+          image: /img/webapp.png
+      - title: " Mobile App development"
         content: Our application development services deliver intuitive and feature-rich
           mobile applications tailored to your specific needs.
-      - title: " 3D modeling"
-        content: Our 3D modeling services provide high-quality and realistic
-          representations for various industries and applications. From product
-          designs to architectural visualizations.
+        photo:
+          image: /img/mobileapp.png
+      - title: UML Modeling
+        content: UML modeling services provide high-quality and realistic design for
+          various industries and applications.
+        photo:
+          image: /img/uml.png
       - title: " AR/VR development"
         content: Our AR VR Development Services push the boundaries of immersive
           experiences, blending the virtual and physical worlds seamlessly.
