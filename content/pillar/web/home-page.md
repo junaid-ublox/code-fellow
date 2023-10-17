@@ -90,8 +90,7 @@ blocks:
         photo:
           image: /img/atlassian.png
       - content: Our custom web development service combines creativity and
-          functionality to bring your digital vision to life. From sleek and
-          responsive designs.
+          functionality to bring your digital vision to life.
         title: Web Development
         photo:
           image: /img/webapp.png
@@ -106,31 +105,20 @@ blocks:
         photo:
           image: /img/uml.png
       - title: Graphic and Video Designing
-        content: |-
+        content: >-
           Creating unique and memorable logos that represent a brand or company.
 
-          .﻿  Logo
 
-          .﻿ Print
-
-          .﻿ Web & Mobile
-
-          . P﻿hoto Editing
-
-          . ﻿Branding
-
-          .﻿ Videos & Animation
+          Logos, Print, Web & Mobile, P﻿hoto Editing,﻿ Branding, Videos & Animation.
         photo:
           image: /img/graphics.png
-  - type: empty_space
-    variant: 150px
   - type: empty_space
     variant: 50px
   - type: recentArticles
     bg_settings:
       variant: no-bg
       overlay: no-overlay
-    title: Explore & Read News & Blog
+    title: Read News & Blog
 seo:
   ogimage: /img/4000_2_01.jpg
 ---
