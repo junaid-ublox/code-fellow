@@ -11,7 +11,7 @@ blocks:
     height: full
     heros:
       - hero:
-          variant: default
+          variant: visual_image_with_heading
           ratio: 11/1
           color_theme: white
           bg_settings:
@@ -82,7 +82,7 @@ blocks:
     bg_settings:
       variant: no-bg
       overlay: no-overlay
-    title: Real Time Dealing in all Professional IT Solutions & Services
+    title: Professional IT Solutions & Services
     columns:
       - title: "Atlassian JIRA: Cloud and Data Center"
         content: "Custom Software Development: We design and develop bespoke software
@@ -105,32 +105,25 @@ blocks:
           various industries and applications.
         photo:
           image: /img/uml.png
-      - title: " AR/VR development"
-        content: Our AR VR Development Services push the boundaries of immersive
-          experiences, blending the virtual and physical worlds seamlessly.
-      - title: " Game development"
-        content: Game development services combine cutting-edge technology with creative
-          storytelling to deliver captivating and immersive gaming experiences.
+      - title: Graphic and Video Designing
+        content: |-
+          Creating unique and memorable logos that represent a brand or company.
+
+          .﻿  Logo
+
+          .﻿ Print
+
+          .﻿ Web & Mobile
+
+          . P﻿hoto Editing
+
+          . ﻿Branding
+
+          .﻿ Videos & Animation
+        photo:
+          image: /img/graphics.png
   - type: empty_space
     variant: 150px
-  - type: hero_slider
-    variant: default
-    height: 40vh
-    heros:
-      - hero:
-          variant: default
-          ratio: 8/4
-          color_theme: dark
-          bg_settings:
-            variant: bg-image
-            overlay: white
-            bg_photo: /img/scott-graham-5fnmwej4taa-unsplash.jpg
-          title: ""
-          content: "# Better IT Solutions & Services at your Fingertips"
-          buttons:
-            - button:
-                variant: button
-                content: Learn more
   - type: empty_space
     variant: 50px
   - type: recentArticles
