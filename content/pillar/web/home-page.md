@@ -112,6 +112,9 @@ blocks:
           Logos, Print, Web & Mobile, P﻿hoto Editing,﻿ Branding, Videos & Animation.
         photo:
           image: /img/graphics.png
+    content: We offer a broad range of services that involve the use of technology
+      to manage and support various aspects of an organization and its
+      operations.
   - type: empty_space
     variant: 50px
   - type: recentArticles
