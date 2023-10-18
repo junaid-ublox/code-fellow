@@ -45,10 +45,8 @@ blocks:
       variant: no-bg
       overlay: no-overlay
     columns:
-      - content: |-
-          code-fellow enables you to retain total team control by
-
-           empowering you with multiple benefits like high scalability.
+      - content: code-fellow enables you to retain total team control by empowering you
+          with multiple benefits like high scalability.
         photo:
           image: /img/team1.png
         title: RETAIN COMPLETE TEAM CONTROL
@@ -59,12 +57,12 @@ blocks:
           image: /img/exposure.png
       - title: BUILD TEAMS THAT YOU NEED
         content: It doesn’t really matter if your development type is open or fixed
-          term, our dedicated developers will upgrade your software cases.
+          term, our dedicated team will upgrade you.
         photo:
           image: /img/build.png
       - title: RESOURCES WITH PROFOUND EXPERTISE
         content: We offers you a vast pool of extremely skilled and dedicated developers
-          to choose from. They have profound expertise in technologies.
+          to choose from. They are experts.
         photo:
           image: /img/skills.png
     content: At code-fellow we pride ourselves on providing the best **[business
