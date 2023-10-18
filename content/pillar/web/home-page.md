@@ -73,7 +73,7 @@ blocks:
       automations in the Atlassian platform.
     title: Business Process Management
   - type: empty_space
-    variant: 150px
+    variant: 50px
   - type: perks
     variant: default
     bg_settings:
