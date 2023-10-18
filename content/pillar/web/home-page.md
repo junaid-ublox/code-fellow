@@ -45,27 +45,26 @@ blocks:
       variant: no-bg
       overlay: no-overlay
     columns:
-      - content: code-fellow enables you to retain total team control by empowering you
-          with multiple benefits like that of high scalability and reduced
-          administration.
+      - content: |-
+          code-fellow enables you to retain total team control by
+
+           empowering you with multiple benefits like high scalability.
         photo:
           image: /img/team1.png
         title: RETAIN COMPLETE TEAM CONTROL
       - title: ENSURE AN IMMERSIVE EXPERIENCE
         content: We adhere to all your processes and policies thus enabling your team to
-          operate in a branded space which ensures an immersive experience.
+          operate in a branded space.
         photo:
           image: /img/exposure.png
       - title: BUILD TEAMS THAT YOU NEED
-        content: It doesn’t really matter if your development type is open-ended or
-          fixed term, our dedicated developers will upgrade your software
-          developments capabilities in either cases.
+        content: It doesn’t really matter if your development type is open or fixed
+          term, our dedicated developers will upgrade your software cases.
         photo:
           image: /img/build.png
       - title: RESOURCES WITH PROFOUND EXPERTISE
         content: We offers you a vast pool of extremely skilled and dedicated developers
-          to choose from. These developers have profound expertise in their
-          respective technologies.
+          to choose from. They have profound expertise in technologies.
         photo:
           image: /img/skills.png
     content: At code-fellow we pride ourselves on providing the best **[business
@@ -82,7 +81,7 @@ blocks:
     bg_settings:
       variant: no-bg
       overlay: no-overlay
-    title: Professional IT Solutions & Services
+    title: IT Solutions & Services
     columns:
       - title: "Atlassian JIRA: Cloud and Data Center"
         content: "Custom Software Development: We design and develop bespoke software
@@ -112,9 +111,12 @@ blocks:
           Logos, Print, Web & Mobile, P﻿hoto Editing,﻿ Branding, Videos & Animation.
         photo:
           image: /img/graphics.png
-    content: We offer a broad range of services that involve the use of technology
-      to manage and support various aspects of an organization and its
-      operations.
+    content: We offer a broad range of services that involve the use of digital
+      technologies to fundamentally change or improve various aspects of
+      business operations, customer experiences, and the overall way an
+      organization delivers value. It involves the integration of digital
+      technology into all aspects of an organization, leading to significant
+      changes in how it operates and interacts with its customers and employees.
   - type: empty_space
     variant: 50px
   - type: recentArticles
