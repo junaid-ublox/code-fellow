@@ -23,7 +23,7 @@ blocks:
         content: We design and develop bespoke software solutions tailored to your
           specific business needs.
         photo:
-          image: /img/webapp.png
+          image: /img/softwar3.png
       - title: Web and Mobile App Development
         content: We create responsive and user-friendly web and mobile applications that
           enhance your online presence and engage your audience.
