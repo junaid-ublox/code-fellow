@@ -2,7 +2,7 @@
 id: -MjC2I64m
 type: page
 layout: page-builder
-title: Industries
+title: Technology
 permalink: /industries/
 blocks:
   - type: perks
