@@ -13,12 +13,12 @@
     {
       "type": "default",
       "name": "Technology",
-      "permalink": "/technology"
+      "permalink": "/industries"
     },
     {
       "type": "default",
-      "name": "Industry",
-      "permalink": "/industries"
+      "name": "Portfolio",
+      "permalink": "/portfolio"
     },
     {
       "type": "default",
