@@ -11,7 +11,9 @@ blocks:
       variant: no-bg
       overlay: no-overlay
     title: Our Portfolio
-    content: ""
+    content: "code-fellow has successfully left an indelible mark across various
+      industries. Our impact is far-reaching, unlocking new opportunities for
+      growth and innovation in a fast-paced digital world.\r\n"
     columns:
       - title: u-blox
         photo:
