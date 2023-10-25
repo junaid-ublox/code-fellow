@@ -16,17 +16,21 @@ blocks:
       - title: u-blox
         photo:
           image: /img/ubxcf.jpg
-        content: "u-blox (https://www.u-blox.com)\r
+        content: "u-blox\r
 
           Developed the Corporate Website and CMS using the latest
           technologies...  \r\n"
+        permalink: https://www.u-blox.com
+        show_popup: true
       - title: IYouWork
         photo:
           image: /img/iywcf.jpg
         content: >-
-          IYouWork (https://iyouwork.com)
+          IYouWork 
 
           Developed the complete Web and Mobile App using the latest technologies...
+        permalink: https://iyouwork.com
+        show_popup: true
       - title: KeywordPlanner
         content: |-
           KeywordPlanner
@@ -34,21 +38,22 @@ blocks:
         photo:
           image: /img/kpcfw.jpg
         permalink: https://keywordplanners.io
+        show_popup: true
       - title: Momin Solutions
         content: |-
           Developed the Web App from scratch for
-
           https://peoplepermonth.com
         photo:
-          image: /img/ppm.png
+          image: /img/momin-solutions.png
         permalink: https://www.mominsolutions.com
+        show_popup: true
       - title: Tech Implement
         content: >-
           swuich – https://swuich.com
 
           An IoT (Internet of Things) and a mini CRM to facilitate the IoT and Service...
         photo:
-          image: /img/swuich.png
+          image: /img/swuichcf.jpg
         permalink: https://techimplement.com/
         show_popup: true
 seo:
