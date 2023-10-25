@@ -15,12 +15,12 @@ blocks:
     columns:
       - title: u-blox
         photo:
-          image: /img/ubx.jpg
-        content: >-
-          ## u-blox (https://www.u-blox.com/en/)
+          image: /img/ubxcf.jpg
+        content: "u-blox (https://www.u-blox.com/en/)\r
 
-
-          Developed the complete Corporate Website and Content Management System using the latest technologies and following the Agile product management standards.
+          Developed the complete Corporate Website and CMS using the
+          latest technologies and following the Agile product management
+          standards.\r\n"
       - title: Atlassian JIRA
         photo:
           image: /img/atlassian.png
