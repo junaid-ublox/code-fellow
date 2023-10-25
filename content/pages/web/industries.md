@@ -29,7 +29,7 @@ blocks:
           we use C#.\r\n"
         show_popup: true
         photo:
-          image: /img/.net.jpg
+          image: /img/net.jpg
       - title: PHP - Laravel
         show_popup: true
         content: Laravel is a free and open-source PHP web framework, created by Taylor
