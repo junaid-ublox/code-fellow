@@ -20,31 +20,37 @@ blocks:
 
           Developed the Corporate Website and CMS using the latest
           technologies...  \r\n"
-      - title: Atlassian JIRA
+      - title: IYouWork
         photo:
-          image: /img/atlassian.png
-      - title: Software Development
-        content: We design and develop bespoke software solutions tailored to your
-          specific business needs.
+          image: /img/iywcf.jpg
+        content: >-
+          IYouWork (https://iyouwork.com)
+
+          Developed the complete Web and Mobile App using the latest technologies...
+      - title: KeywordPlanner
+        content: |-
+          KeywordPlanner
+          Developed web and mobile app, delivered through the Agile processes...
         photo:
-          image: /img/softwar3.png
-      - title: Web and Mobile App Development
-        content: We create responsive and user-friendly web and mobile applications that
-          enhance your online presence and engage your audience.
+          image: /img/kpcfw.jpg
+        permalink: https://keywordplanners.io
+      - title: Momin Solutions
+        content: |-
+          Developed the Web App from scratch for
+
+          https://peoplepermonth.com
         photo:
-          image: /img/webapp.png
-      - title: IoT Solutions
-        content: We build IoT solutions that enable you to collect, analyze, and act on
-          data from connected devices, optimizing operations and enhancing
-          customer experiences.
+          image: /img/ppm.png
+        permalink: https://www.mominsolutions.com
+      - title: Tech Implement
+        content: >-
+          swuich – https://swuich.com
+
+          An IoT (Internet of Things) and a mini CRM to facilitate the IoT and Service...
         photo:
-          image: /img/iot.png
-      - title: Cloud Services
-        content: Our cloud services help you harness the power of scalable and
-          cost-effective cloud infrastructure, ensuring high availability and
-          performance.
-        photo:
-          image: /img/cloud.png
+          image: /img/swuich.png
+        permalink: https://techimplement.com/
+        show_popup: true
 seo:
   ogimage: /img/codefellow.jpeg
 ---
