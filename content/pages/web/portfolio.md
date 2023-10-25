@@ -44,7 +44,7 @@ blocks:
           Developed the Web App from scratch for
           https://peoplepermonth.com
         photo:
-          image: /img/momin-solutions.png
+          image: /img/momincf.jpg
         permalink: https://www.mominsolutions.com
         show_popup: true
       - title: Tech Implement
