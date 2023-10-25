@@ -10,12 +10,17 @@ blocks:
     bg_settings:
       variant: no-bg
       overlay: no-overlay
-    title: Our Services
+    title: Our Portfolio
     content: ""
     columns:
-      - title: Business Process Management
+      - title: u-blox
         photo:
-          image: /img/bpm.png
+          image: /img/ubx.jpg
+        content: >-
+          ## u-blox (https://www.u-blox.com/en/)
+
+
+          Developed the complete Corporate Website and Content Management System using the latest technologies and following the Agile product management standards.
       - title: Atlassian JIRA
         photo:
           image: /img/atlassian.png
