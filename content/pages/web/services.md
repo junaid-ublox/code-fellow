@@ -20,9 +20,14 @@ blocks:
       - title: Business Process Management
         photo:
           image: /img/bpm.png
+        content: We pride ourselves on providing the best **[business process management
+          and reengineering](https://code-fellow.com/)** for our clients.
+        show_popup: true
       - title: Atlassian JIRA
         photo:
           image: /img/atlassian.png
+        content: We have elevated a number of European organization by leveraging the
+          ITIL based processes and their automations in the Atlassian platform.
       - title: Software Development
         content: We design and develop bespoke software solutions tailored to your
           specific business needs.
