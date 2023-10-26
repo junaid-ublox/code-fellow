@@ -11,7 +11,11 @@ blocks:
       variant: no-bg
       overlay: no-overlay
     title: Our Services
-    content: ""
+    content: At code-fellow, we are providing the best it services to our clients.
+      We are equipped to cater to a variety of needs, ensuring that we deliver
+      top-notch results every time. We are here to deliver a range of services
+      from design to create innovative mobile and web applications development,
+      IoT Solutions, BPM Automation, digital marketing and SEO.
     columns:
       - title: Business Process Management
         photo:
