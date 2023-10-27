@@ -34,9 +34,11 @@ blocks:
           ratio: 8/4
           color_theme: dark
           bg_settings:
-            variant: bg-image-parralax
+            variant: bg-image
             overlay: white
             bg_photo: /img/background.jpg
+          photo:
+            image: /img/hero-bg.jpg
 seo:
   ogimage: /img/codefellow.jpeg
 ---
