@@ -27,7 +27,7 @@ blocks:
       You can try us on your next project!
   - type: hero_slider
     variant: default
-    height: full
+    height: auto
     heros:
       - hero:
           variant: default
