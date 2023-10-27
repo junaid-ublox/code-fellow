@@ -8,9 +8,10 @@ blocks:
   - type: perks
     variant: default
     bg_settings:
-      variant: no-bg
-      overlay: no-overlay
+      variant: bg-image
+      overlay: white
       bg_photo: /img/background.jpg
+      bg_color: "#000000"
     title: About Us
     content: >-
       Code-fellow is dedicated to helping businesses to achieve their strategic
