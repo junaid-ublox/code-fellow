@@ -36,7 +36,7 @@ blocks:
           bg_settings:
             variant: bg-image
             overlay: white
-            bg_photo: /img/background.jpg
+            bg_photo: ""
           photo:
             image: /img/hero-bg.jpg
 seo:
