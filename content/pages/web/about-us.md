@@ -11,7 +11,7 @@ blocks:
       variant: bg-image
       overlay: white
       bg_photo: /img/background.jpg
-      bg_color: "#000000"
+      bg_color: ""
     title: About Us
     content: >-
       Code-fellow is dedicated to helping businesses to achieve their strategic
@@ -27,15 +27,15 @@ blocks:
       You can try us on your next project!
   - type: hero_slider
     variant: default
-    height: auto
+    height: 40vh
     heros:
       - hero:
           variant: default
-          ratio: 8/4
+          ratio: 2/10
           color_theme: dark
           bg_settings:
             variant: bg-image
-            overlay: white
+            overlay: no-overlay
             bg_photo: /img/hero-bg.jpg
           photo:
             image: ""
