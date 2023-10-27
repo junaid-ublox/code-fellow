@@ -25,6 +25,18 @@ blocks:
 
 
       You can try us on your next project!
+  - type: hero_slider
+    variant: default
+    height: full
+    heros:
+      - hero:
+          variant: default
+          ratio: 8/4
+          color_theme: dark
+          bg_settings:
+            variant: bg-image
+            overlay: no-overlay
+            bg_photo: /img/background.jpg
 seo:
   ogimage: /img/codefellow.jpeg
 ---
