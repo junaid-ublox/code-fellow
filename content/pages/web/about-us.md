@@ -7,10 +7,19 @@ permalink: /about-us/
 blocks:
   - type: content
     variant: left-hand
-    content: Code-fellow is dedicated to helping businesses leverage technology to
-      achieve their strategic objectives. We look forward to partnering with you
-      on your next software project and helping you reach new heights of
-      success.
+    content: >-
+      Code-fellow is dedicated to helping businesses to achieve their strategic
+      objectives. 
+
+
+      With our young engineers, designers and IT professionals we believe in transforming the organizations into whole new digital world.
+
+
+      We leverage out of the box solutions from business process re-engineering to process automation to make the business efficient and productive.
+
+
+      You can try us on your next project!
+    columns: []
 seo:
   ogimage: /img/codefellow.jpeg
 ---
