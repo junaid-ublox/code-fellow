@@ -4,6 +4,9 @@ type: page
 layout: page-builder
 title: Portfolio
 permalink: /portfolio/
+breadcrumbs:
+  - breadcrumb_item:
+      title: Our customer experience the difference
 blocks:
   - type: perks
     variant: default
@@ -26,7 +29,7 @@ blocks:
         show_popup: true
       - title: IYouWork
         photo:
-          image: /img/iywcf.jpg
+          image: /img/iyou.jpg
         content: >-
           IYouWork 
 
