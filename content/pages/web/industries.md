@@ -23,7 +23,7 @@ blocks:
           applications.\r\n"
         show_popup: false
         photo:
-          image: /img/react.jpg
+          image: /img/react.png
       - title: .Net Framework
         content: ".NET is a framework that provides a programming guidelines that can be
           used to develop a wide range of applications–––from web to mobile to
