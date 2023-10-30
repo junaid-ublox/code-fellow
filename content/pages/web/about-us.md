@@ -4,6 +4,9 @@ type: page
 layout: page-builder
 title: About Us
 permalink: /about-us/
+breadcrumbs:
+  - breadcrumb_item:
+      title: Where technology meets excellence
 blocks:
   - type: perks
     variant: default
