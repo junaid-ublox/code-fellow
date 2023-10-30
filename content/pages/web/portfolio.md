@@ -29,7 +29,7 @@ blocks:
         show_popup: true
       - title: IYouWork
         photo:
-          image: /img/iyou.jpg
+          image: /img/iyourwork.png
         content: >-
           IYouWork 
 
