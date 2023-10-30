@@ -4,6 +4,9 @@ type: page
 layout: page-builder
 title: Technology
 permalink: /industries/
+breadcrumbs:
+  - breadcrumb_item:
+      title: Bringing technology to your fingertips
 blocks:
   - type: perks
     variant: default
