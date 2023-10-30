@@ -27,6 +27,11 @@
     },
     {
       "type": "default",
+      "name": "News",
+      "permalink": "/news"
+    },
+    {
+      "type": "default",
       "name": "Contact Us",
       "permalink": "/contact-us"
     }
