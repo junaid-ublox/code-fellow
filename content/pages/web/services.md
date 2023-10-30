@@ -53,13 +53,6 @@ blocks:
           performance.
         photo:
           image: /img/cloud.png
-  - type: content_image
-    bg_settings:
-      variant: no-bg
-      overlay: no-overlay
-    variant: default
-    title: Tech experts at your service
-    content: Tech experts at your service
 seo:
   ogimage: /img/codefellow.jpeg
 ---
