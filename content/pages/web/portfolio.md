@@ -6,7 +6,7 @@ title: Portfolio
 permalink: /portfolio/
 breadcrumbs:
   - breadcrumb_item:
-      title: Our customer experience the difference
+      title: Our customers, experience the difference
 blocks:
   - type: perks
     variant: default
@@ -41,7 +41,7 @@ blocks:
           KeywordPlanner
           Developed web and mobile app, delivered through the Agile processes...
         photo:
-          image: /img/kpcfw.jpg
+          image: /img/keywrodcf.png
         permalink: https://keywordplanners.io
         show_popup: true
       - title: Momin Solutions
@@ -49,7 +49,7 @@ blocks:
           Developed the Web App from scratch for
           https://peoplepermonth.com
         photo:
-          image: /img/momincf.jpg
+          image: /img/momincf.png
         permalink: https://www.mominsolutions.com
         show_popup: true
       - title: Tech Implement
@@ -58,7 +58,7 @@ blocks:
 
           An IoT (Internet of Things) and a mini CRM to facilitate the IoT and Service...
         photo:
-          image: /img/swuichcf.jpg
+          image: /img/techimpcf.png
         permalink: https://techimplement.com/
         show_popup: true
 seo:
