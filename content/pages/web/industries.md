@@ -32,20 +32,20 @@ blocks:
           we use C#.\r\n"
         show_popup: true
         photo:
-          image: /img/net.jpg
+          image: /img/net.png
       - title: PHP - Laravel
         show_popup: true
         content: Laravel is a free and open-source PHP web framework, created by Taylor
           Otwell and intended for the development of web applications following
           the model–view–controller architectural pattern and based on Symfony.
         photo:
-          image: /img/laravel.jpg
+          image: /img/lara.png
       - title: Drupal
         show_popup: true
         content: Drupal is a free and open-source web content management system written
           in PHP and distributed under the GNU General Public License
         photo:
-          image: /img/drupal.jpg
+          image: /img/drupal.png
       - title: Angular
         show_popup: true
         content: Angular is a TypeScript-based, free and open-source single-page web
@@ -53,14 +53,14 @@ blocks:
           community of individuals and corporations. Angular is a complete
           rewrite from the same team that built AngularJS.
         photo:
-          image: /img/angular.jpg
+          image: /img/angular.png
       - title: JAVA / J2EE
         show_popup: true
         content: Java is a high-level, class-based, object-oriented programming language
           that is designed to have as few implementation dependencies as
           possible.
         photo:
-          image: /img/java.jpg
+          image: /img/java.png
       - title: Android / Swift
         content: "\r
 
@@ -69,14 +69,14 @@ blocks:
           tablets"
         show_popup: true
         photo:
-          image: /img/android.jpg
+          image: /img/android.png
       - title: MS SQL Server
         show_popup: true
         content: Microsoft SQL Server is a proprietary relational database management
           system developed by Microsoft. As a database server, it is a software
           product with the primary function of storing and retrieving ...
         photo:
-          image: /img/sql.jpg
+          image: /img/sql.png
     content: "code fellow has supported various organizations to effectively manage
       and leverage technology to meet the overall goals and objectives of the
       business. This typically includes a range of responsibilities and
