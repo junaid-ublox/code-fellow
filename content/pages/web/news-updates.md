@@ -14,6 +14,8 @@ blocks:
   - type: content
     variant: left-hand
     content: C﻿SP Generator and Evaluator.
+    columns:
+      - content: C﻿SP Generator and Evaluator.
 seo:
   ogimage: /img/codefellow.jpeg
 ---
