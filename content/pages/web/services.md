@@ -54,8 +54,10 @@ blocks:
         photo:
           image: /img/cloud.png
       - title: "Data Scraping Services and Solutions "
-        content: We have experts who are specialized in Data scraping on behalf of
-          clients. These are valuable for businesses and organizations.
+        content: |-
+          We have experts who are specialized in data scraping on
+
+          behalf of clients, that is valuable for businesses and orgs.
         photo:
           image: /img/data-scrap.png
 seo:
