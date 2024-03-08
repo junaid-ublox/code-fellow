@@ -53,6 +53,9 @@ blocks:
           performance.
         photo:
           image: /img/cloud.png
+      - title: "Data Scraping Services and Solutions "
+        content: Our scrapers help you harness the power of scalable and cost-effective
+          cloud infrastructure, ensuring high availability and performance.
 seo:
   ogimage: /img/codefellow.jpeg
 ---
