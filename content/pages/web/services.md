@@ -54,8 +54,10 @@ blocks:
         photo:
           image: /img/cloud.png
       - title: "Data Scraping Services and Solutions "
-        content: Our scrapers help you harness the power of scalable and cost-effective
-          cloud infrastructure, ensuring high availability and performance.
+        content: We have experts who are specialized in Data scraping on behalf of
+          clients. These are valuable for businesses and organizations.
+        photo:
+          image: /img/data-scrap.png
 seo:
   ogimage: /img/codefellow.jpeg
 ---
