@@ -18,16 +18,8 @@ blocks:
       industries. Our impact is far-reaching, unlocking new opportunities for
       growth and innovation in a fast-paced digital world.\r\n"
     columns:
-      - title: u-blox
-        photo:
-          image: /img/ubxcf.jpg
-        content: "u-blox\r
-
-          Developed the Corporate Website and CMS using the latest
-          technologies...  \r\n"
-        permalink: https://www.u-blox.com
-        show_popup: true
-      - title: IYouWork
+   
+   - title: IYouWork
         photo:
           image: /img/iycf.png
         content: >-
