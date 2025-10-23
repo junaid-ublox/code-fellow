@@ -18,15 +18,13 @@ blocks:
       industries. Our impact is far-reaching, unlocking new opportunities for
       growth and innovation in a fast-paced digital world.\r\n"
     columns:
-   
-   - title: IYouWork
-        photo:
-          image: /img/iycf.png
+      - title: IYouWork
         content: >-
           IYouWork 
-
           Developed the complete Web and Mobile App using the latest technologies...
         permalink: https://iyouwork.com
+        photo:
+          image: /img/iycf.png
         show_popup: true
       - title: KeywordPlanner
         content: |-
